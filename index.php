@@ -5,7 +5,7 @@
         <header class="index">
             <div class="main-nav">
                 <div class="container">
-                    <nav class="navbar navbar-expand-lg navbar-light">
+                            <nav class="navbar navbar-expand-lg navbar-light">
                         <a class="navbar-brand text-uppercase" href="https://www.template.net/editable/websites/html5">www.powerlifting.lt</a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -13,8 +13,8 @@
                         </button>
 
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                            <ul class="navbar-nav ml-auto">
-                                <li class="nav-item">
+
+                                <!-- <li class="nav-item">
                                     <a class="nav-link" href="index.html">Federacija
                                         <span class="sr-only">(current)</span>
                                     </a>
@@ -42,9 +42,15 @@
 
                                 <li class="nav-item">
                                     <a class="nav-link" href="support.html">Kontaiktai</a>
-                                </li>
+                                </li> -->
+                                <?php
+                            wp_nav_menu( array(
+                            'theme_location' => 'my-custom-menu',
+                            'container_class' => 'bla',
+                          'menu_class' => 'lol' ) );
+                            ?>
 
-                            </ul>
+
 
                         </div>
                     </nav>
@@ -96,7 +102,7 @@
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block" src="assets/images/ne.jpg" alt="First slide">
+                        <img class="d-block" src="<?php echo ASSETS_URL?>images/ne.jpg" alt="First slide">
 
                         <div class="carousel-caption d-md-block main-block">
                             <!-- <h5>Welcome to the thespacious</h5>
@@ -111,7 +117,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img class="d-block" src="assets/images/newban1.jpg" alt="Second slide">
+                        <img class="d-block" src="<?php echo ASSETS_URL?>images/newban1.jpg" alt="Second slide">
                         <div class="carousel-caption d-md-block">
                             <h5>A Brand for Furniture</h5>
                             <p>a furniture and interiors agency</p>
@@ -125,7 +131,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img class="d-block" src="assets/images/banner3.jpg" alt="Third slide">
+                        <img class="d-block" src="<?php echo ASSETS_URL?>images/banner3.jpg" alt="Third slide">
                         <div class="carousel-caption d-md-block">
                             <h5>Get the Best Furniture</h5>
                             <p>a furniture and interiors agency</p>
