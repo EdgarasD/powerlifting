@@ -95,8 +95,8 @@
                                         <li>
                                             <a href="#">Wilks skaičiuoklė</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Policy for Sellers </a>
+                                        <!-- <li>
+                                            <a href="#"> </a>
                                         </li>
                                         <li>
                                             <a href="#">Policy for Buyers </a>
@@ -106,7 +106,7 @@
                                         </li>
                                         <li>
                                             <a href="#">Pardavimo politika</a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>

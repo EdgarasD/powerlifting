@@ -1784,6 +1784,70 @@ height: 549px;
 .single #myCarousel .carousel-indicators>li{
     margin-bottom: 20px;
 }
+
+.categories {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-categories {
+  padding-top: 85px;
+  padding-bottom: 195px;
+  max-width: 460px;
+}
+
+.section-categories h4 {
+  color: #0062c5;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: initial;
+  margin-bottom: 15px;
+}
+.section-categories p {
+  font-size: 15px;
+  line-height: 30px;
+  opacity: 0.4;
+  width: 100%;
+  font-weight: 500;
+  text-align: initial;
+}
+
+.section-categories p:first-of-type {
+  margin-bottom: 45px;
+}
+
+.section-categories a {
+  background: #0062c5;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  border-radius: 100px;
+  font-size: 10px;
+  text-transform: uppercase;
+  line-height: 31px;
+  padding: 1px 30px;
+  margin-top: 40px;
+}
+
+.gallery {
+  display: flex;
+  /* width: 100%; */
+  padding-top: 90px
+}
+
+.gallery-container {
+  flex-wrap: wrap;
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.gallery-container figcaption {
+  padding-top: 10px;
+}
+
 /* end of single */
 
 @media(max-width:1680px) {

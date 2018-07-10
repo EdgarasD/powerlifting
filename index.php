@@ -76,7 +76,7 @@
 
                             <div class="social-icons">
                                 <span>
-                                    <i>Mus galite rasti</i>
+                                    <!-- <i>Mus galite rasti</i> -->
 
                                     <a href="https://www.twitter.com">
                                         <i class="fa fa-twitter"></i>
@@ -250,10 +250,10 @@
 
             <div data-aos="fade-right" data-aos-easing="linear" data-aos-duration="500" class="ourstory">
                 <div class="inner">
-                    <h3>OURSTORY</h3>
-                    <P>one of the best and cleaniest wordpress theme for agencies and online portfolios</P>
+                    <h3>ISTORIJA</h3>
+                    <!-- <P>one of the best and cleaniest wordpress theme for agencies and online portfolios</P> -->
                     <a href="about.html">
-                        READ MORE +
+                        DAUGIAU +
                     </a>
                 </div>
 
@@ -262,12 +262,18 @@
 
             <div class="ourpara">
                 <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="500" class="inner1">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typeset-ting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also
-                        the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
-                        1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
-                        desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>LIETUVOJE SSRS okupacijos metais LJTF buvo atletinės gimnastikos dalis,
+                      bet buvo rengiamos neoficialios jėgos varžybos ir čempionatai Šiauliuose,
+                      Klaipėdoje, Taline, Tiumenėje. Labai populiarūs buvo Ventos taurės
+                      turnyrai Kuršėnuose. 1979 04 04 Šiauliuose įvyko I neoficialus
+                      Lietuvos jėgos dvikovės (iki 1982 dvikovė: pritūpimas ir spaudimas)
+                      čempionatas, jie vyko kasmet iki 1987. Iki 1990,
+                      Lietuvos nepriklausomybės atkūrimo metų, priklausė Lietuvos atletinės
+                      gimnastikos federacijai, 1987-91 Lietuvos susivienijimas veikė
+                      kaip atskiras Lietuvos atletinės gimnastikos federacijos padalinys
+                      (vad. E. Kryževičius). 1991 09 22 įvyko Lietuvos jėgos trikovės federacijos (LJTF)
+                      steigiamasis susirinkimas, 1993 06 05 Kaune – steigiamoji konferencija,
+                      nuo 1994 LJTF yra Europos jėgos trikovės federacijos (EPF) narė. </p>
                 </div>
 
             </div>
@@ -515,20 +521,5 @@
         </section>
 
 
-        <section data-aos="fade-up" data-aos-easing="linear" data-aos-duration="800" class="newsletter">
-            <div class="container">
-                <div class="nl1">
-                    <h2 class="text-uppercase">newsletter</h2>
-                </div>
-                <div class="nl2">
-                    <form>
-                        <input type="text" placeholder="Your Name" required>
-                        <input type="email" placeholder="Your Email ID" required>
-                        <button type="submit">SUBSCRIBE</button>
-                    </form>
-                </div>
-            </div>
-
-
-        </section>
+<?php get_template_part ('templates/sponsors', 'page'); ?> 
 <?php get_footer(); ?>
