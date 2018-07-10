@@ -5,10 +5,14 @@
                 <div class="row">
                     <div class="col-12 col-sm-5">
                         <div class="brand site">
-                            <h3>the
-                                <span>spacious</span>
+                            <h3>POWER
+                                <span>LIFTING</span>
                             </h3>
-                            <p>one of the best and cleaniest wordpress theme for agencies and online portfolios</p>
+                            <p>LIETUVOS JĖGOS TRIKOVĖS FEDERACIJA</p>
+                            <p>Žemaitės g. 6, Vilnius</p>
+                            <p>Įm. kodas 191606980</p>
+                            <p>A/S LT727300010034984720</p>
+                            <p>AB Swedbank, banko kodas 73000</p>
                         </div>
                     </div>
 
@@ -17,7 +21,7 @@
                             <div class="col-12 col-sm-4">
                                 <div class="site">
                                     <h4 class="text-uppercase drop">
-                                        INFORMACIJA
+                                        FEDERACIJA
                                         <i class="fa fa-angle-down float-right d-sm-none" aria-hidden="true"></i>
                                     </h4>
                                     <ul class="list">
@@ -25,26 +29,32 @@
                                             <a href="index.html">Administracija</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Teisėjai</a>
+                                            <a href="services.html">Lietuvos rinktinė</a>
                                         </li>
                                         <li>
-                                            <a href="products.html">Techninės taisyklės</a>
+                                            <a href="products.html">Meistriškumo normatyvai</a>
                                         </li>
                                         <li>
-                                            <a href="blog.html">Varžybų nuostatai</a>
-                                        </li>
-                                        <!-- <li>
-                                            <a href="contact.html">CONTACT US</a>
+                                            <a href="#">Sportininko licencija (pasas)</a>
                                         </li>
                                         <li>
-                                            <a href="support.html">PRODUCT SUPPORT</a>
-                                        </li> -->
+                                            <a href="products.html">Teisėjai</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog.html">Garbės lenta </a>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">Antidopingas</a>
+                                        </li>
+                                        <li>
+                                            <a href="support.html">Privatumo politika</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-12 col-sm-4">
                                 <div class="site">
-                                    <h4 class="text-uppercase drop1">information
+                                    <h4 class="text-uppercase drop1">Varžybos
                                         <i class="fa fa-angle-down float-right d-sm-none" aria-hidden="true"></i>
                                     </h4>
                                     <ul class="list1">
@@ -52,16 +62,22 @@
                                             <a href="#">Registracija į varžybas</a>
                                         </li>
                                         <li>
-                                            <a href="#">Protokolai</a>
+                                            <a href="productsingle.html">Techninės taisyklės</a>
                                         </li>
                                         <li>
-                                            <a href="productsingle.html">Kalendorius</a>
+                                            <a href="productsingle.html">Protokolai</a>
                                         </li>
                                         <li>
-                                            <a href="productsingle.html">Garbės lenta</a>
+                                            <a href="about.html">2018 m. varžybų vedimo nuostatai</a>
                                         </li>
                                         <li>
-                                            <a href="about.html">Lietuvos rinktinė</a>
+                                          <a href="about.html">LJTF kalendorius</a>
+                                        </li>
+                                        <li>
+                                          <a href="about.html">IPF kalendorius </a>
+                                        </li>
+                                        <li>
+                                          <a href="about.html">EPF kalendorius </a>
                                         </li>
 
                                     </ul>
@@ -69,22 +85,22 @@
                             </div>
                             <div class="col-12 col-sm-4">
                                 <div class="site">
-                                    <h4 class="text-uppercase drop2">polocies & info
+                                    <h4 class="text-uppercase drop2">Naudinga
                                         <i class="fa fa-angle-down float-right d-sm-none" aria-hidden="true"></i>
                                     </h4>
                                     <ul class="list2">
-                                        <!-- <li>
-                                            <a href="#">Terms Conditions</a>
+                                        <li>
+                                            <a href="#">Produkcija sportui</a>
                                         </li>
                                         <li>
-                                            <a href="#"> website polocy</a>
+                                            <a href="#">Wilks skaičiuoklė</a>
                                         </li>
                                         <li>
                                             <a href="#">Policy for Sellers </a>
                                         </li>
                                         <li>
                                             <a href="#">Policy for Buyers </a>
-                                        </li> -->
+                                        </li>
                                         <li>
                                             <a href="#">Pristatymas </a>
                                         </li>
