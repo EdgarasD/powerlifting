@@ -5,95 +5,88 @@
         <header class="index">
             <div class="main-nav">
                 <div class="container">
-                            <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand text-uppercase" href="https://www.template.net/editable/websites/html5">www.powerlifting.lt</a>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                            aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-
-                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-                                <!-- <li class="nav-item">
-                                    <a class="nav-link" href="index.html">Federacija
-                                        <span class="sr-only">(current)</span>
-                                    </a>
-                                    <span>+</span>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="services.html">Varžybos</a>
-                                    <span>+</span>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="products.html">Naudinga</a>
-                                    <span>+</span>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="blog.html">Lietuvos rekordai</a>
-                                    <span>+</span>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Antidopingas</a>
-                                    <span>+</span>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="support.html">Kontaiktai</a>
-                                </li> -->
-                                <?php
-                            wp_nav_menu( array(
-                            'theme_location' => 'my-custom-menu',
-                            'container_class' => 'bla',
-                          'menu_class' => 'lol' ) );
-                            ?>
+                  <nav class="navbar navbar-expand-lg navbar-light">
 
 
 
-                        </div>
-                    </nav>
+                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                          aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                      </button>
+
+                      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                          <ul class="navbar-nav ml-auto">
+
+                            <span>
+
+                                <a href="https://www.twitter.com">
+                                    <i class="fa fa-home"></i>
+                                </a>
+
+                            </span>
+                              <li class="nav-item">
+                                  <a class="nav-link" href="index.html">Federacija
+                                      <span class="sr-only">(current)</span>
+                                  </a>
+                                  <span>+</span>
+                              </li>
+                              <li class="nav-item">
+                                  <a class="nav-link" href="services.html">Varžybos</a>
+                                  <span>+</span>
+                              </li>
+
+                              <li class="nav-item">
+                                  <a class="nav-link" href="products.html">Naudinga</a>
+                                  <span>+</span>
+                              </li>
+
+                              <li class="nav-item">
+                                  <a class="nav-link" href="blog.html">Lietuvos rekordai</a>
+                                  <span>+</span>
+                              </li>
+
+                              <li class="nav-item">
+                                  <a class="nav-link" href="contact.html">Antidopingas</a>
+                                  <span>+</span>
+                              </li>
+
+                              <li class="nav-item">
+                                  <a class="nav-link" href="support.html">Kontaiktai</a>
+                              </li>
+
+                          </ul>
+
+                      </div>
+                      <a href="https://www.twitter.com">
+                          <i class="fa fa-twitter"></i>
+                      </a>
+                      <a href="https://www.facebook.com">
+                          <i class="fa fa-facebook"></i>
+                      </a>
+                      <a href="https://www.gmail.com">
+                          <i class="fa fa-google-plus"></i>
+                      </a>
+                      <a href="https://www.youtube.com">
+                          <i class="fa fa-youtube"></i>
+                      </a>
+                  </nav>
                 </div>
             </div>
             <div class="head-content">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-12 col-sm-6 col-lg-6 float-left">
-                            <h2 class="text-uppercase">Power
-                                <span>Lifting</span>
-                            </h2>
-                            <p class="text-uppercase">Lietuvos jėgos trikovės federacija</p>
-                        </div>
-                        <div class="col-12 col-sm-6 col-lg-6 float-right social">
 
-                            <!-- <div class="search-box">
-                                <input type="text" required placeholder="Paieška">
-                                <a href="#">
-                                    <i class="fa fa-search"></i>
-                                </a>
-                            </div> -->
 
+<<<<<<< HEAD
                             <div class="social-icons">
                                 <span>
                                     <!-- <i>Mus galite rasti</i> -->
+=======
+                            <img class="logo" src="<?php echo ASSETS_URL?>images/logo.png" alt="Federacija">
 
-                                    <a href="https://www.twitter.com">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
-                                    <a href="https://www.facebook.com">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                    <a href="https://www.gmail.com">
-                                        <i class="fa fa-google-plus"></i>
-                                    </a>
-                                    <a href="https://www.youtube.com">
-                                        <i class="fa fa-youtube"></i>
-                                    </a>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
+
+
+>>>>>>> 4f21b861eb70a50d0e1ab1ba5bd4f35cab45a8cf
+
                 </div>
             </div>
         </header>
@@ -104,21 +97,21 @@
                     <div class="carousel-item active">
                         <img class="d-block" src="<?php echo ASSETS_URL?>images/ne.jpg" alt="First slide">
 
-                        <div class="carousel-caption d-md-block main-block">
-                            <!-- <h5>Welcome to the thespacious</h5>
+                        <!-- <div class="carousel-caption d-md-block main-block">
+                            <h5>Welcome to the thespacious</h5>
                             <p>a furniture and interiors agency</p>
                             <a href="about.html" class="btn1">
                                 ABOUT
                             </a>
                             <a href="#" class="btn2">
                                 GO SHOP
-                            </a> -->
-                        </div>
+                            </a>
+                        </div> -->
                     </div>
 
                     <div class="carousel-item">
                         <img class="d-block" src="<?php echo ASSETS_URL?>images/newban1.jpg" alt="Second slide">
-                        <div class="carousel-caption d-md-block">
+                        <!-- <div class="carousel-caption d-md-block">
                             <h5>A Brand for Furniture</h5>
                             <p>a furniture and interiors agency</p>
                             <a href="about.html" class="btn1">
@@ -127,12 +120,12 @@
                             <a href="#" class="btn2">
                                 GO SHOP
                             </a>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="carousel-item">
                         <img class="d-block" src="<?php echo ASSETS_URL?>images/banner3.jpg" alt="Third slide">
-                        <div class="carousel-caption d-md-block">
+                        <!-- <div class="carousel-caption d-md-block">
                             <h5>Get the Best Furniture</h5>
                             <p>a furniture and interiors agency</p>
                             <a href="about.html" class="btn1">
@@ -141,7 +134,7 @@
                             <a href="#" class="btn2">
                                 GO SHOP
                             </a>
-                        </div>
+                        </div> -->
                     </div>
 
                 </div>
