@@ -31,6 +31,7 @@ if (!is_admin()) {
 wp_enqueue_style('reset', ASSETS_URL.'css/reset.css' );
 wp_enqueue_style('aos', ASSETS_URL.'fonts/all/aos.css' );
 wp_enqueue_style('mai', ASSETS_URL.'css/main.css' );
+wp_enqueue_style('stylesheet', ASSETS_URL.'fonts/stylesheet.css' );
 
 //addrig js
 // <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -49,13 +50,10 @@ wp_enqueue_script('script_js',  ASSETS_URL.'js/script.js', array('jquery'), fals
 }
 
 
-
-add_action ('init', 'add_menu');
-
-function add_menu()
-{
-add_theme_support ('menus');
+function wpb_custom_new_menu() {
+  register_nav_menu('top_menu',__( 'My Custom Menu' ));
 }
+add_action( 'init', 'wpb_custom_new_menu' );
 
 
 
