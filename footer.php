@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-12 col-sm-5">
                         <div class="brand site">
-                            <h3>
-                                <span>Rekvizitai</span>
+                            <h3>POWER
+                                <span>LIFTING</span>
                             </h3>
                             <p>LIETUVOS JĖGOS TRIKOVĖS FEDERACIJA</p>
                             <p>Žemaitės g. 6, Vilnius</p>
