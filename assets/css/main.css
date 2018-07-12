@@ -194,20 +194,7 @@ input::-webkit-input-placeholder {
     opacity: 0.3;
 }
 
-.social-icons {
-    margin-left: 62px;
-    width: 363px;
-    float: right;
-}
 
-.social-icons span {
-    float: right;
-}
-
-.social-icons span>i {
-    font-size: 12px;
-    opacity: 0.6;
-}
 
 .social span a {
     color: #fff;
