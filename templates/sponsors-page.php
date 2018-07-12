@@ -1,4 +1,4 @@
-<section class="categories">
+<section class="categories" id="remejai">
   <div class="content-container container">
     <div class="section-categories">
       <h4>Partneriai ir rėmėjai</h4>

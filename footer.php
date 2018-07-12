@@ -26,7 +26,7 @@
                                     </h4>
                                     <ul class="list">
                                         <li>
-                                            <a href="index.html">Administracija</a>
+                                            <a href="federacija">Administracija</a>
                                         </li>
                                         <li>
                                             <a href="services.html">Lietuvos rinktinė</a>
