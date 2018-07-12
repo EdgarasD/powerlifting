@@ -1,29 +1,12 @@
 <?php get_header(); ?>
 <body>
 <?php get_template_part ('templates/top-menu', 'page'); ?>
-
-<div class="logo">
-  <img class="logo" src="<?php echo ASSETS_URL?>images/logo.png" alt="Federacija">
-</div>
-
-
-
-        <section class="banner">
+<section class="banner">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block" src="<?php echo ASSETS_URL?>images/ne.jpg" alt="First slide">
 
-                        <!-- <div class="carousel-caption d-md-block main-block">
-                            <h5>Welcome to the thespacious</h5>
-                            <p>a furniture and interiors agency</p>
-                            <a href="about.html" class="btn1">
-                                ABOUT
-                            </a>
-                            <a href="#" class="btn2">
-                                GO SHOP
-                            </a>
-                        </div> -->
                     </div>
 
                     <div class="carousel-item">
@@ -70,7 +53,7 @@
             </div>
         </section>
 
-        <div class="container-fluid categories">
+        <div class="container-fluid categories  id="naujienos">
             <div class="container">
                 <div class="row">
                     <div data-aos="fade-up" data-aos-easing="ease-out-cubic" data-aos-duration="1000" class="col-12  col-md-4">

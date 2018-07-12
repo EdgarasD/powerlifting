@@ -1,13 +1,13 @@
 
 
-        <footer>
+        <footer id="kontaktai">
             <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="800" class="container">
                 <div class="row">
                     <div class="col-12 col-sm-5">
                         <div class="brand site">
-                            <h3>POWER
-                                <span>LIFTING</span>
-                            </h3>
+                            <img class="logo" src="<?php echo ASSETS_URL?>images/logo.png" alt="Federacija" style="opacity:0.7;filter:alpha(opacity=40);">
+                            <br>
+                            <br>
                             <p>LIETUVOS JĖGOS TRIKOVĖS FEDERACIJA</p>
                             <p>Žemaitės g. 6, Vilnius</p>
                             <p>Įm. kodas 191606980</p>
