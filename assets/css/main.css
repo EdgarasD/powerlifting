@@ -645,7 +645,7 @@ figure:hover img {
     padding-bottom: 75px;
 }
 
-.ourblog .container {
+. .container {
     width: 1110px;
     padding-top: 87px;
 }
@@ -672,7 +672,7 @@ figure:hover img {
 }
 
 .ourblog {
-    margin-bottom: 74px;
+    margin-bottom: 10px;
 }
 
 .ourblog .fa-angle-left,
@@ -1734,15 +1734,16 @@ height: 549px;
 }
 
 .categories {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
+    width: 100%;
+    justify-content: space-between;
+    width: 100%;
 }
 
 .section-categories {
-  padding-top: 85px;
-  padding-bottom: 195px;
-  max-width: 460px;
+    padding-left: 45px;
+    padding-bottom: 20px;
+    width: 100%;
+    padding-top: 45px;
 }
 
 .section-categories h4 {
@@ -1781,8 +1782,8 @@ height: 549px;
 
 .gallery {
   display: flex;
-  /* width: 100%; */
-  padding-top: 90px
+  width: 100%;
+  /* padding-top: 90px */
 }
 
 .gallery-container {
@@ -1794,6 +1795,11 @@ height: 549px;
 
 .gallery-container figcaption {
   padding-top: 10px;
+}
+
+.gallery-container figure img {
+    border: 0px;
+    width: 70%;
 }
 
 /* end of single */
