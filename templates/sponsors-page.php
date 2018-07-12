@@ -1,5 +1,5 @@
 <section class="categories">
-  <div class="content-container">
+  <div class="content-container container">
     <div class="section-categories">
       <h4>Partneriai ir rėmėjai</h4>
       <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
@@ -10,7 +10,7 @@
       </a> -->
     </div>
   </div>
-  <div class="gallery">
+  <div class="gallery container">
     <ul class="gallery-container">
       <li>
         <figure>
