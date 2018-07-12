@@ -57,7 +57,7 @@
   <a href="https://www.twitter.com">
     <i class="fa fa-instagram fa-lg"></i>
   </a>
-  <a href="https://www.facebook.com">
+  <a href="https://www.facebook.com/groups/497453796968736/">
     <i class="fa fa-facebook fa-lg"></i>
   </a>
   <!-- <a href="https://www.gmail.com">
