@@ -14,7 +14,8 @@
     <ul class="gallery-container">
       <li>
         <figure>
-          <img src="<?php echo ASSETS_URL ?>images/cwsd_010.jpg" alt="">
+          <a href="http://arimex.lt" target="_blank" title="UAB Arimex">
+          <img src="<?php echo ASSETS_URL ?>images/cwsd_010.jpg" alt=""></a>
           <!-- <figcaption>ARIMEX</figcaption> -->
         </figure>
       </li>
