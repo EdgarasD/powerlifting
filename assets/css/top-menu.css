@@ -1,0 +1,13 @@
+.top-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 150px;
+}

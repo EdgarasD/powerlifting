@@ -1,95 +1,14 @@
 <?php get_header(); ?>
 <body>
 
-    <div class="main">
-        <header class="index">
-            <div class="main-nav">
-                <div class="container">
-                  <nav class="navbar navbar-expand-lg navbar-light">
+
+<?php get_template_part ('templates/top-menu', 'page'); ?>
+
+<div class="logo">
+  <img class="logo" src="<?php echo ASSETS_URL?>images/logo.png" alt="Federacija">
+</div>
 
 
-
-                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                          aria-expanded="false" aria-label="Toggle navigation">
-                          <span class="navbar-toggler-icon"></span>
-                      </button>
-
-                      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                          <ul class="navbar-nav ml-auto">
-
-                            <span>
-
-                                <a href="https://www.twitter.com">
-                                    <i class="fa fa-home"></i>
-                                </a>
-
-                            </span>
-                              <li class="nav-item">
-                                  <a class="nav-link" href="index.html">Federacija
-                                      <span class="sr-only">(current)</span>
-                                  </a>
-                                  <span>+</span>
-                              </li>
-                              <li class="nav-item">
-                                  <a class="nav-link" href="services.html">Varžybos</a>
-                                  <span>+</span>
-                              </li>
-
-                              <li class="nav-item">
-                                  <a class="nav-link" href="products.html">Naudinga</a>
-                                  <span>+</span>
-                              </li>
-
-                              <li class="nav-item">
-                                  <a class="nav-link" href="blog.html">Lietuvos rekordai</a>
-                                  <span>+</span>
-                              </li>
-
-                              <li class="nav-item">
-                                  <a class="nav-link" href="contact.html">Antidopingas</a>
-                                  <span>+</span>
-                              </li>
-
-                              <li class="nav-item">
-                                  <a class="nav-link" href="support.html">Kontaiktai</a>
-                              </li>
-
-                          </ul>
-
-                      </div>
-                      <a href="https://www.twitter.com">
-                          <i class="fa fa-twitter"></i>
-                      </a>
-                      <a href="https://www.facebook.com">
-                          <i class="fa fa-facebook"></i>
-                      </a>
-                      <a href="https://www.gmail.com">
-                          <i class="fa fa-google-plus"></i>
-                      </a>
-                      <a href="https://www.youtube.com">
-                          <i class="fa fa-youtube"></i>
-                      </a>
-                  </nav>
-                </div>
-            </div>
-            <div class="head-content">
-                <div class="container">
-
-
-<<<<<<< HEAD
-                            <div class="social-icons">
-                                <span>
-                                    <!-- <i>Mus galite rasti</i> -->
-=======
-                            <img class="logo" src="<?php echo ASSETS_URL?>images/logo.png" alt="Federacija">
-
-
-
->>>>>>> 4f21b861eb70a50d0e1ab1ba5bd4f35cab45a8cf
-
-                </div>
-            </div>
-        </header>
 
         <section class="banner">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -514,5 +433,5 @@
         </section>
 
 
-<?php get_template_part ('templates/sponsors', 'page'); ?> 
+<?php get_template_part ('templates/sponsors', 'page'); ?>
 <?php get_footer(); ?>

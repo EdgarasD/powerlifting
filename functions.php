@@ -32,6 +32,9 @@ wp_enqueue_style('reset', ASSETS_URL.'css/reset.css' );
 wp_enqueue_style('aos', ASSETS_URL.'fonts/all/aos.css' );
 wp_enqueue_style('mai', ASSETS_URL.'css/main.css' );
 wp_enqueue_style('stylesheet', ASSETS_URL.'fonts/stylesheet.css' );
+wp_enqueue_style('fontAwesome', ASSETS_URL.'fonts/fa/stylesheet.css' );
+
+wp_enqueue_style('top-menu', ASSETS_URL.'css/top-menu.css' );
 
 //addrig js
 // <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
