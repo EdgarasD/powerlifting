@@ -13,7 +13,7 @@ body {
 }
 
 .logo {
-  align-items: center;
+  text-align: center;
 }
 .fa {
   color: white;
@@ -869,7 +869,6 @@ footer h4 {
 }
 
 footer .brand {
-    margin-top: 31px;
     padding-bottom: 111px;
 }
 
@@ -1451,11 +1450,6 @@ header {
     width: 1110px;
 }
 
-.navbar-expand-lg,
-.text1,
-.text2 {
-    width: 1110px;
-}
 
 /*
 footer .container {

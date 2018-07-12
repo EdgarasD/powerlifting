@@ -30,7 +30,7 @@ if (!is_admin()) {
   //adding css
 wp_enqueue_style('reset', ASSETS_URL.'css/reset.css' );
 wp_enqueue_style('aos', ASSETS_URL.'fonts/all/aos.css' );
-wp_enqueue_style('mai', ASSETS_URL.'css/main.css' );
+wp_enqueue_style('main', ASSETS_URL.'css/main.css' );
 wp_enqueue_style('stylesheet', ASSETS_URL.'fonts/stylesheet.css' );
 wp_enqueue_style('fontAwesome', ASSETS_URL.'fonts/fa/stylesheet.css' );
 
