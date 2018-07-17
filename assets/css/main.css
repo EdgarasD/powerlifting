@@ -431,13 +431,12 @@ figure:hover img {
 }
 
 .story {
-    background-image: url("../images/ban2.jpg");
+    background-image: url("../images/federation-history.jpg");
     background-size: cover;
     background-position: center;
     float: left;
     width: 100%;
     /* position: relative; */
-    margin-bottom: 82px;
     padding: 90px 0 84px 0;
 }
 
@@ -465,6 +464,7 @@ figure:hover img {
     font-weight: 700;
     margin-top: 2px;
     margin-bottom: 16px;
+    margin-left: 45px;
 }
 
 .ourstory .inner p {
@@ -500,21 +500,21 @@ figure:hover img {
 .ourpara {
     background: rgba(255, 255, 255, 0.8);
     float: right;
-    width: 62%;
+    width: 75%;
 }
 
 .ourpara .inner1 {
     float: left;
     width: 700px;
-    padding: 81px 0px 59px 70px;
-    text-align: right;
+    padding: 31px 20px 31px 20px;
+    text-align: center;
     /* position: relative; */
     z-index: 2;
 }
 
 .ourpara .inner1 p {
-    line-height: 34px;
-    font-size: 19px;
+    line-height: 25px;
+    font-size: 15px;
     font-weight: 500;
     color: #555;
     letter-spacing: -0.4px;
@@ -525,7 +525,7 @@ figure:hover img {
     clear: both;
     text-align: center;
     width: 100%;
-    margin-bottom: 128px;
+    margin-bottom: 70px;
 }
 
 .latest h3 {
@@ -533,7 +533,9 @@ figure:hover img {
     font-size: 26px;
     font-weight: 700;
     letter-spacing: -0.8px;
-    margin-bottom: 4px;
+    margin-bottom: 40px;
+    text-align: left;
+    margin-left: 220px;
 }
 
 .latest p {
@@ -558,7 +560,7 @@ figure:hover img {
 .latest .container .row {
     margin-left: -30px;
     margin-right: -30px;
-    margin-bottom: -22px;
+    margin-bottom: -20px;
 }
 
 .latest .container .col-12 {
@@ -597,14 +599,15 @@ figure:hover img {
 .lat span {
     position: absolute;
     top: 0;
-    right: 0;
+    right: 30px;
     color: #fff;
     background: #0062c5;
     font-weight: 500;
     font-size: 13px;
     font-weight: 600;
-    padding: 15px 0;
-    width: 65px;
+    padding: 3px 0;
+    width: 100px;
+    opacity: 0.8;
 }
 
 .lat i {
@@ -621,19 +624,19 @@ figure:hover img {
 
 .lat h6 {
     position: absolute;
-    bottom: 23px;
+    bottom: 25px;
     left: 7px;
     color: #fff;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
-    padding-left: 10px;
+    right: 7px;
 }
 
 .ourblog {
     width: 100%;
     float: left;
     clear: both;
-    background-image: url(../images/lastbanner.jpg);
+    /* background-image: url(../images/lastbanner.jpg); */
     border-bottom: 1px solid #ccc;
     border-top: 1px solid #ccc;
     background-position: center;
@@ -653,9 +656,9 @@ figure:hover img {
 .blogtext h3 {
     color: #363636;
     font-size: 38px;
-    letter-spacing: -4px;
     font-weight: 700;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
+    padding-top: 15px;
 }
 
 .blogtext p {
@@ -672,7 +675,7 @@ figure:hover img {
 }
 
 .ourblog {
-    margin-bottom: 10px;
+    padding-top: 70px
 }
 
 .ourblog .fa-angle-left,
@@ -683,12 +686,13 @@ figure:hover img {
 
 .blogimg1 p,
 .lastcarousel p {
-    font-size: 16px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: 500;
     padding-top: 23px;
     line-height: 23px;
-    margin-bottom: 22px;
+    margin-bottom: 1px;
+    text-align: center;
 }
 
 .blogimg1 button,
@@ -732,6 +736,8 @@ figure:hover img {
 .carousel-control-next,
 .carousel-control-prev {
     opacity: 1;
+    margin-top: 100px;
+    margin-left: 15px;
 }
 
 .myright {
@@ -1081,6 +1087,7 @@ hr {
     width: calc(100% - 160px);
     overflow: hidden;
 }
+
 
 /* End of Services*/
 
@@ -1832,7 +1839,7 @@ height: 549px;
         width: 335px;
     }
     .ourpara .inner1 {
-        width: 670px;
+        width: 100%;
     }
     /* .banner img {
         width: 80%;
