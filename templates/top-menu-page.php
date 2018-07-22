@@ -54,16 +54,13 @@
 
 <div class="social-icons">
 
-  <a href="https://www.twitter.com">
+  <a href="https://www.instagram.com/powerlifting.lt">
     <i class="fa fa-instagram fa-lg"></i>
   </a>
-  <a href="https://www.facebook.com/groups/497453796968736/">
+  <a href="https://www.facebook.com/LietuvosJegosTrikovesFederacija">
     <i class="fa fa-facebook fa-lg"></i>
   </a>
-  <!-- <a href="https://www.gmail.com">
-    <i class="fa fa-google-plus fa-lg"></i>
-  </a> -->
-  <a href="https://www.youtube.com">
+  <a href="https://www.youtube.com/channel/UCCeQWUotqRYqFJypMrGXjvQ/featured">
     <i class="fa fa-youtube fa-lg"></i>
   </a>
 </div>
