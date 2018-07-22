@@ -55,10 +55,7 @@
 
 
 <?php get_template_part ('templates/news', 'page'); ?>
-<<<<<<< HEAD
-=======
-<!-- <?php get_template_part ('templates/history', 'page'); ?> -->
->>>>>>> 2a50e4085e5fa0748dbaae20e985df6973afebbb
+
 <?php get_template_part ('templates/board', 'page'); ?>
 <?php get_template_part ('templates/sponsors', 'page'); ?>
 <?php get_footer(); ?>

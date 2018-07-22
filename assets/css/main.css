@@ -739,8 +739,8 @@ figure:hover img {
 .carousel-control-next,
 .carousel-control-prev {
     opacity: 1;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: 80px;
+  margin-left: 15px;
 }
 
 .myright {
