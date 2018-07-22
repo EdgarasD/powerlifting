@@ -1,5 +1,5 @@
 <section class="latest">
-    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" class="lathead">
+    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" class="lathead container">
         <h3>Federacijos naujienos</h3>
         <!-- <P>Lorem Ipsum is simply dummy text of the printing and typeset-ting industry. Lorem Ipsum has been the industry's...</P> -->
     </div>
