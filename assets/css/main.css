@@ -736,8 +736,15 @@ figure:hover img {
     border-radius: 50%;
 }
 
-.carousel-control-next,
-.carousel-control-prev {
+.next1,
+.prev1 {
+    opacity: 1;
+    margin-top: 0px;
+  margin-left: 0px;
+}
+
+.next2,
+.prev2 {
     opacity: 1;
     margin-top: 80px;
   margin-left: 15px;

@@ -38,13 +38,13 @@
                     </div>
 
                 </div>
-                <a class="carousel-control-prev left" href="#carouselExampleControls" role="button" data-slide="prev">
+                <a class="carousel-control-prev prev1 left" href="#carouselExampleControls" role="button" data-slide="prev">
                     <span class="fa fa-angle-left" aria-hidden="true">
 
                     </span>
 
                 </a>
-                <a class="carousel-control-next right" href="#carouselExampleControls" role="button" data-slide="next">
+                <a class="carousel-control-next next1 right" href="#carouselExampleControls" role="button" data-slide="next">
                     <span class="fa fa-angle-right" aria-hidden="true">
 
                     </span>

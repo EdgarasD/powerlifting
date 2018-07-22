@@ -5,11 +5,11 @@
                 <div class="blogtext">
                     <h3>Garbės lenta</h3>
                     <!-- <p>one of the best and cleaniest wordpress theme for agencies and online portfolios</p> -->
-                    <a class="carousel-control-prev left myleft" href="#carouselExample" role="button" data-slide="prev">
+                    <a class="carousel-control-prev prev2 left myleft" href="#carouselExample" role="button" data-slide="prev">
                         <span class="fa fa-angle-left" aria-hidden="true">
                         </span>
                     </a>
-                    <a class="carousel-control-next right myright" href="#carouselExample" role="button" data-slide="next">
+                    <a class="carousel-control-next next2 right myright" href="#carouselExample" role="button" data-slide="next">
                         <span class="fa fa-angle-right" aria-hidden="true">
                         </span>
                     </a>
