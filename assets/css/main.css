@@ -12,6 +12,9 @@ body {
     float: left;
 }
 
+
+
+}
 .logo {
   text-align: center;
 }
@@ -736,8 +739,8 @@ figure:hover img {
 .carousel-control-next,
 .carousel-control-prev {
     opacity: 1;
-    margin-top: 100px;
-    margin-left: 15px;
+    margin-top: 0px;
+    margin-left: 0px;
 }
 
 .myright {
