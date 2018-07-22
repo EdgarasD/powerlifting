@@ -1,4 +1,4 @@
-<section class="story">
+<!-- <section class="story">
 
     <div class="lines">
 
@@ -58,4 +58,4 @@
 
     </div>
 
-</section>
+</section> -->

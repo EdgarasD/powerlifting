@@ -55,7 +55,6 @@
 
 
 <?php get_template_part ('templates/news', 'page'); ?>
-<?php get_template_part ('templates/history', 'page'); ?>
 <?php get_template_part ('templates/board', 'page'); ?>
 <?php get_template_part ('templates/sponsors', 'page'); ?>
 <?php get_footer(); ?>
