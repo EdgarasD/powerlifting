@@ -27,24 +27,26 @@
                       <span>+</span>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" href="#istorija">Istorija</a>
+                      <a class="nav-link" href="#istorija">Sporto centrai</a>
                       <span>+</span>
                   </li>
 
                   <li class="nav-item">
-                      <a class="nav-link" href="#glenta">Garbes lenta</a>
+                      <a class="nav-link" href="#glenta">Rezultatai</a>
                       <span>+</span>
                   </li>
 
                   <li class="nav-item">
-                      <a class="nav-link" href="#remejai">Partneriai ir remejai</a>
+                      <a class="nav-link" href="#remejai">Lietuvos rinktinė</a>
                       <span>+</span>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" href="#kontaktai">Kontaktai</a>
-
+                      <a class="nav-link" href="#kontaktai">Antidopingas</a>
+                      <span>+</span>
                   </li>
-
+                  <!-- <li class="nav-item">
+                      <a class="nav-link" href="#kontaktai">Parduotuvė</a>
+                  </li> -->
                 </ul>
               </div>
             </nav>

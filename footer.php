@@ -74,10 +74,10 @@
                                           <a href="about.html">LJTF kalendorius</a>
                                         </li>
                                         <li>
-                                          <a href="about.html">IPF kalendorius </a>
+                                          <a href="https://www.powerlifting-ipf.com/championships/calendar.html">IPF kalendorius</a>
                                         </li>
                                         <li>
-                                          <a href="about.html">EPF kalendorius </a>
+                                          <a href="http://www.europowerlifting.org/calendar.html">EPF kalendorius </a>
                                         </li>
 
                                     </ul>
@@ -93,12 +93,12 @@
                                             <a href="#">Produkcija sportui</a>
                                         </li>
                                         <li>
-                                            <a href="#">Wilks skaičiuoklė</a>
-                                        </li>
-                                        <!-- <li>
-                                            <a href="#"> </a>
+                                            <a href="http://powerlifting-upf.org.ua/raznoe/wilkscalc.htm">Wilks skaičiuoklė</a>
                                         </li>
                                         <li>
+                                            <a href="http://www.antidopingas.lt/medikamentu-paieska/">Draudžiamų medikamentų paieška </a>
+                                        </li>
+                                        <!-- <li>
                                             <a href="#">Policy for Buyers </a>
                                         </li>
                                         <li>

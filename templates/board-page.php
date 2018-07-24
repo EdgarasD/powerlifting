@@ -22,7 +22,7 @@
                         <div class="carousel-item active">
                             <div class="row">
                                 <div class="col-3 last">
-                                    <a href="blog.html">
+                                    <a href="http://goodlift.info/lifter.php?lid=6416">
                                         <img src="<?php echo ASSETS_URL ?>images/pupinis.jpg" alt="Paulius Pupinis" class="w-100">
                                     </a>
                                     <p>Paulius Pupinis</p>
@@ -31,7 +31,7 @@
                                     </a> -->
                                 </div>
                                 <div class="col-3 last1">
-                                    <a href="blog.html">
+                                    <a href="http://goodlift.info/lifter.php?lid=7423">
                                         <img src="<?php echo ASSETS_URL ?>images/egidijus.png" alt="Egidijus Valčiukas" class="w-100">
                                     </a>
                                     <p>Egidijus Valčiukas</p>
@@ -40,7 +40,7 @@
                                     </a> -->
                                 </div>
                                 <div class="col-3 last1">
-                                    <a href="blog.html">
+                                    <a href="http://goodlift.info/lifter.php?lid=6714">
                                         <img src="<?php echo ASSETS_URL ?>images/milda.png" alt="Milda Brūverė" class="w-100">
                                     </a>
                                     <p>Milda Brūverė</p>
@@ -54,7 +54,7 @@
                         <div class="carousel-item">
                             <div class="row">
                                 <div class="col-3 last">
-                                    <a href="blog.html">
+                                    <a href="http://goodlift.info/lifter.php?lid=6415">
                                         <img src="<?php echo ASSETS_URL ?>images/Klaudijus.png" alt="Klaudijus Malevskis" class="w-100">
                                     </a>
                                     <p>Klaudijus Malevskis</p>
@@ -63,7 +63,7 @@
                                     </a> -->
                                 </div>
                                 <div class="col-3 last1">
-                                    <a href="blog.html">
+                                    <a href="http://goodlift.info/lifter.php?lid=6921">
                                         <img src="<?php echo ASSETS_URL ?>images/daiva.png" alt="Daiva Žarovienė" class="w-100">
                                     </a>
                                     <p>Daiva Žarovienė</p>
@@ -73,30 +73,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <div class="carousel-item">
-                            <div class="row">
-                                <div class="col-6 last">
-                                    <a href="blog.html">
-                                        <img src="assets/images/carousel3.jpg" alt="table" class="w-100">
-                                    </a>
-                                    <p>some of the best furniture designs of the year 1027</p>
-                                    <a class="ourblogbtn" href="blog.html">
-                                        +more
-                                    </a>
-                                </div>
-
-                                <div class="col-6 last1">
-                                    <a href="blog.html">
-                                        <img src="assets/images/carousel4.jpg" alt="bench" class="w-100">
-                                    </a>
-                                    <p>some of the best furniture designs of the year 1027</p>
-                                    <a class="ourblogbtn" href="blog.html">
-                                        +more
-                                    </a>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
