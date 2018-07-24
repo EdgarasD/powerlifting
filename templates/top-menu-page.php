@@ -2,7 +2,7 @@
     <div class="container top-menu">
 
       <div class="logo">
-        <a href="<?php echo getenv('HTTP_HOST'); ?>">
+        <a href="www.powerlifting.lt" target="_parent">
         <img class="logo" height="40px" src="<?php echo ASSETS_URL?>images/logo.png" alt="Federacija" style="opacity:0.9;filter:alpha(opacity=40);">
       </a>
       </div>
