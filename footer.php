@@ -26,7 +26,7 @@
                                     </h4>
                                     <ul class="list">
                                         <li>
-                                            <a href="federacija">Administracija</a>
+                                            <a href="administracija">Administracija</a>
                                         </li>
                                         <li>
                                             <a href="services.html">Lietuvos rinktinė</a>
@@ -68,7 +68,7 @@
                                             <a href="productsingle.html">Protokolai</a>
                                         </li>
                                         <li>
-                                            <a href="about.html">2018 m. varžybų vedimo nuostatai</a>
+                                            <a href="nuostatai">2018 m. varžybų vedimo nuostatai</a>
                                         </li>
                                         <li>
                                           <a href="about.html">LJTF kalendorius</a>
