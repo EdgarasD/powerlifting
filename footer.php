@@ -28,24 +28,24 @@
                                         <li>
                                             <a href="administracija">Administracija</a>
                                         </li>
+                                        <!-- <li>
+                                            <a href="lietuvos-rinktine">Lietuvos rinktinė</a>
+                                        </li> -->
                                         <li>
-                                            <a href="services.html">Lietuvos rinktinė</a>
+                                            <a href="meistriskumo-normatyvai">Meistriškumo normatyvai</a>
                                         </li>
                                         <li>
-                                            <a href="products.html">Meistriškumo normatyvai</a>
+                                            <a href="sportininko-licencija">Sportininko licencija</a>
                                         </li>
                                         <li>
-                                            <a href="#">Sportininko licencija (pasas)</a>
+                                            <a href="teisejai">Teisėjai</a>
                                         </li>
-                                        <li>
-                                            <a href="products.html">Teisėjai</a>
-                                        </li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="blog.html">Garbės lenta </a>
-                                        </li>
-                                        <li>
-                                            <a href="contact.html">Antidopingas</a>
-                                        </li>
+                                        </li> -->
+                                        <!-- <li>
+                                            <a href="antidopingas">Antidopingas</a>
+                                        </li> -->
                                         <li>
                                             <a href="support.html">Privatumo politika</a>
                                         </li>
@@ -59,14 +59,14 @@
                                     </h4>
                                     <ul class="list1">
                                         <li>
-                                            <a href="#">Registracija į varžybas</a>
+                                            <a href="registracija-i-varzybas">Registracija į varžybas</a>
                                         </li>
                                         <li>
                                             <a href="productsingle.html">Techninės taisyklės</a>
                                         </li>
-                                        <li>
-                                            <a href="productsingle.html">Protokolai</a>
-                                        </li>
+                                        <!-- <li>
+                                            <a href="varzybu-rezultatai">Rezultatai</a>
+                                        </li> -->
                                         <li>
                                             <a href="nuostatai">2018 m. varžybų vedimo nuostatai</a>
                                         </li>

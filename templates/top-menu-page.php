@@ -21,27 +21,27 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ml-auto">
 
-                  <li class="nav-item">
+                  <!-- <li class="nav-item">
                       <a class="nav-link" href="#naujienos">Federacijos naujienos
                         </a>
                       <span>+</span>
-                  </li>
-                  <li class="nav-item">
+                  </li> -->
+                  <!-- <li class="nav-item">
                       <a class="nav-link" href="#istorija">Sporto centrai</a>
                       <span>+</span>
-                  </li>
+                  </li> -->
 
                   <li class="nav-item">
-                      <a class="nav-link" href="#glenta">Rezultatai</a>
+                      <a class="nav-link" href="varzybu-rezultatai">Rezultatai</a>
                       <span>+</span>
                   </li>
 
                   <li class="nav-item">
-                      <a class="nav-link" href="#remejai">Lietuvos rinktinė</a>
+                      <a class="nav-link" href="#lietuvos-rinktine">Lietuvos rinktinė</a>
                       <span>+</span>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" href="#kontaktai">Antidopingas</a>
+                      <a class="nav-link" href="antidopingas">Antidopingas</a>
                       <span>+</span>
                   </li>
                   <!-- <li class="nav-item">
