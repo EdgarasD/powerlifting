@@ -59,7 +59,12 @@ function wpb_custom_new_menu() {
 add_action( 'init', 'wpb_custom_new_menu' );
 
 
+add_action ('init', 'imageResize');
+function imageResize ()
+{
+add_image_size ('news_image', 320, 320, array('center', 'center'));
 
+}
 
 // //regiruojamas meniu
 // add_action ('init', 'registerMenu');

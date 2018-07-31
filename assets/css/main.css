@@ -632,6 +632,10 @@ figure:hover img {
     font-size: 12px;
     font-weight: 700;
     right: 7px;
+width: 84%;
+margin: auto;
+background: #0062c5;
+opacity: 0.8;
 }
 
 .ourblog {
